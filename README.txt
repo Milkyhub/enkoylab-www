@@ -1,0 +1,1 @@
+EnkoyLab updated static site. Upload all contents of this folder to Cloudflare Pages (direct upload) or your Git repository. Keep index.html, styles.css, script.js, assets/ and books/ together. The book PDF is included.
